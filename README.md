@@ -6,5 +6,6 @@ This is an application I made from scratch during the time I was taking a coding
 ## Visuals
 ![screenshot](https://github.com/g-zhao/chatbot/blob/master/Sample%20Question%20ChatBot.png) <br>
 .GET request which sends a question to the API endpoint <br>
+<br>
 ![screenshot](https://github.com/g-zhao/chatbot/blob/master/Sample%20Question%20ChatBot%20With%20Typos.png) <br>
 .GET request but with intentional typos sending a question to the API endpoint
