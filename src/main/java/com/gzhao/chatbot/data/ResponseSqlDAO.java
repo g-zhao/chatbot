@@ -14,8 +14,8 @@ public class ResponseSqlDAO implements ResponseDAO {
 	public ResponseSqlDAO(JdbcTemplate jdbcTemplate) {
 		this.jdbcTemplate = jdbcTemplate;
 	}
-	
-	@Override
+
+
 	public Response questionResponse(String responseTopic) {
 		Response thisResponse = new Response();
 		
